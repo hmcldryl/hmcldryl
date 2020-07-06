@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+:point_right: Studies Bachelor of Science in Information Technology at Palawan State University - Main Campus
+:point_right: Co-founder and Chief Technical Officer, [OPUS.tech](http://www.facebook.com/OPUStech.PH)
+:point_right: Co founder and Administrator, [Palawan Youth Tech Society](http://www.facebook.com/groups/pyts.community)
+:point_right:
+
 <!--
 **hmcldryl/hmcldryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
