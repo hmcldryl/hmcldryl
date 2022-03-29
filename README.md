@@ -1,4 +1,5 @@
 # Hi, I'm Daryll Homecillo.
+I'm a mobile app developer based in Puerto Princesa who knows how to get things done. I'm well versed in Android development and designing graphics for apps, websites and other projects.
 
 ## About Me
 * :books: Student, Bachelor of Science in Information Technology at Palawan State University - Main Campus
