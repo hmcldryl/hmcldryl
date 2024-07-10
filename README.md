@@ -1,5 +1,5 @@
 ## Hi, I'm John Daryl Homecillo.
-I'm a mobile app developer based in Puerto Princesa who knows how to get things done. I'm well versed in Android development and designing graphics for apps, websites and other projects.
+To err is to or
 
 ## About Me
 * :books: Bachelor of Science in Information Technology at Palawan State University - Main Campus
