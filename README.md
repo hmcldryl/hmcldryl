@@ -8,4 +8,4 @@ I'm a mobile app developer based in Puerto Princesa who knows how to get things 
 * :pizza: Really loves to eat pizza.
 
 ## Contact Me
-Send me an email :e-mail: at <jhomecillo@psu.palawan.edu.ph> or buy me a [coffee :coffee:](https://www.buymeacoffee.com/lyrad.gg).
+Send me an email :e-mail: at <daryl.homecillo@gmail.com> or buy me a [coffee :coffee:](https://www.buymeacoffee.com/lyrad.gg).
