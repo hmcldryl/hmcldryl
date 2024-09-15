@@ -8,4 +8,4 @@ To err is to or
 * :pizza: Really loves to eat pizza.
 
 ## Contact Me
-Send me an email :e-mail: at <daryl.homecillo@gmail.com> or buy me a [coffee :coffee:](https://www.buymeacoffee.com/lyrad.gg).
+Send me an email :e-mail: at <daryl.homecillo@gmail.com>.
