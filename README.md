@@ -4,7 +4,6 @@ To err is to or
 ## About Me
 * :books: Bachelor of Science in Information Technology at Palawan State University - Main Campus
 * :video_game: Loves playing Dota.
-* :soccer: Loves playing football.
 * :pizza: Really loves to eat pizza.
 
 ## Contact Me
