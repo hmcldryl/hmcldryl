@@ -2,6 +2,7 @@
 To err is to or
 
 ## About Me
+* 💻 Application Engineer for Palawan Group of Companies
 * :books: Bachelor of Science in Information Technology at Palawan State University - Main Campus
 * :video_game: Loves playing Dota.
 * :pizza: Really loves to eat pizza.
