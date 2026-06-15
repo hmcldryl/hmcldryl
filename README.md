@@ -6,5 +6,8 @@ To err is to or
 * 📘 Bachelor of Science in Information Technology at Palawan State University - Main Campus
 * 🍕 Really loves to eat pizza.
 
+## Ongoing Project
+* [The Palawan Scientist](https://palawanscientist.org/index.php/tps/index)
+
 ## Contact Me
 Send me an email :e-mail: at <daryl.homecillo@gmail.com>.
