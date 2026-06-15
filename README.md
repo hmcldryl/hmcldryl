@@ -2,9 +2,8 @@
 To err is to or
 
 ## About Me
-* 💻 Application Engineer for Palawan Group of Companies 
+* 💻 University Extension Specialist I (Web Developer) at Western Philippines University 
 * 📘 Bachelor of Science in Information Technology at Palawan State University - Main Campus
-* 🎮 Loves playing Dota.
 * 🍕 Really loves to eat pizza.
 
 ## Contact Me
