@@ -9,6 +9,7 @@ To err is to or
 ## Ongoing Projects
 * [The Palawan Scientist](https://palawanscientist.org/index.php/tps/index)
 * [WPU SF-12 Portal](https://wpu-sf12-portal-pi.vercel.app/)
+* [KaEatSaan](https://kaeatsaan.web.app/)
 
 ## Contact Me
 Send me an email :e-mail: at <daryl.homecillo@gmail.com>.
