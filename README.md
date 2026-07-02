@@ -15,8 +15,8 @@ Apart from development, I also do tutoring and prototyping with students in robo
 ## Ongoing Projects
 | Project Name | Status |
 | ------------- |:-------------:|
-| [The Palawan Scientist](https://palawanscientist.org/) | [![Status](https://img.shields.io/badge/Active-green)](https://palawanscientist.org/) |
-| [WPU SF-12 Health Assessment Survey](https://wpu-sf12-portal-pi.vercel.app/) | [![Status](https://img.shields.io/badge/On_Development-orange)](https://wpu-sf12-portal-pi.vercel.app/) |
+| [The Palawan Scientist](https://palawanscientist.org/) | [![Status](https://img.shields.io/badge/Live-green)](https://palawanscientist.org/) |
+| [WPU SF-12 Health Assessment Survey](https://wpu-sf12-portal-pi.vercel.app/) | [![Status](https://img.shields.io/badge/Completed-green)](https://wpu-sf12-portal-pi.vercel.app/) |
 | [KaEatSaan](https://kaeatsaan.web.app/) | [![Status](https://img.shields.io/badge/On_Development-orange)](https://kaeatsaan.web.app/) |
 | [JustASimpleApp](https://charliebritton.github.io/website-placeholder/) | [![Status](https://img.shields.io/badge/Ideation-black)](https://charliebritton.github.io/website-placeholder/) |
 
