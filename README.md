@@ -20,6 +20,9 @@ Apart from development, I also do tutoring and prototyping with students in robo
 | [KaEatSaan](https://kaeatsaan.web.app/) | [![Status](https://img.shields.io/badge/On_Development-orange)](https://kaeatsaan.web.app/) |
 | [JustASimpleApp](https://charliebritton.github.io/website-placeholder/) | [![Status](https://img.shields.io/badge/Ideation-black)](https://charliebritton.github.io/website-placeholder/) |
 
+## Last Stars
+[![Last Stars Display](https://badges.pufler.dev/last-stars/pujux?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
+
 ## Contact Me
 Send me an email :e-mail: at <daryl.homecillo@gmail.com>.
 
