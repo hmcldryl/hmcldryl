@@ -3,11 +3,6 @@
 
 Hello! I am a Software Engineer based in Puerto Princesa City. Among the main strengths I have are the ability to embrace mentorship, collaborate with others, and showcase creativity in all projects. I work well in fast-paced settings where there is teamwork and innovation. What keeps me striving to excel in everything that I do is an interest in technology and love for helping people.
 
-## About Me
-* 💻 University Extension Specialist I (Web Developer) at Western Philippines University - Research, Innovation, Development, and Extension
-  * Web Developer at [The Palawan Scientist Journal](https://palawanscientist.org/)
-* 📘 Bachelor of Science in Information Technology at Palawan State University - Main Campus
-
 ## Last Stars
 [![Last Stars Display](https://badges.pufler.dev/last-stars/hmcldryl?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
 
